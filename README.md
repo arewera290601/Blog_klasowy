@@ -2,7 +2,7 @@
 Blog klasowy to aplikacja wykorzystująca Django, w której użytkownicy po zalogowaniu mogą tworzyć blog klasowy, wymieniać się informacjami i swoimi spostrzeżeniami.
 
 # Jak uruchomić projekt?
-  * Skopiuj repozytorium 
+  * Skopiuj repozytorium: 
       git clone (link repo)
   * Uruchom środowisko wirtualne:
       python -m venv venv
@@ -12,7 +12,7 @@ Blog klasowy to aplikacja wykorzystująca Django, w której użytkownicy po zalo
       python manage.py runserver
       
 # Projekt autorstwa:
- Aleksandry Rewery
- Karoliny Biskup
- Justyny Kusal
+ Aleksandry Rewery,
+ Karoliny Biskup,
+ Justyny Kusal,
  Pawła Sroczyńskiego
