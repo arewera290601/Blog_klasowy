@@ -4,12 +4,7 @@ Blog klasowy to aplikacja wykorzystująca Django, w której użytkownicy po zalo
 # Jak uruchomić projekt?
   * Skopiuj repozytorium: 
       git clone (link repo)
-  * Uruchom środowisko wirtualne:
-      python -m venv venv
-  * Dodaj migracje:
-      python manage.py migrate
-  * Uruchom serwer aplikacji:
-      python manage.py runserver
+
       
 # Projekt autorstwa:
  Aleksandry Rewery,
